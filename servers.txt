@@ -1,0 +1,7 @@
+10.0.0.21 marvinhong 22 miner01
+10.0.0.22 marvinhong 22 miner02
+10.0.0.23 marvinhong 22 miner03
+10.0.0.24 marvinhong 22 miner04
+10.0.0.25 marvinhong 22 miner05
+10.0.0.26 marvinhong 22 miner06
+
